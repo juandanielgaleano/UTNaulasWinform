@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\bin\Debug\UIAulas.exe.config
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\bin\Debug\UIAulas.exe
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\bin\Debug\UIAulas.pdb
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.frmPrincipal.resources
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.frmAlumno.resources
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.Properties.Resources.resources
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.exe
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\obj\Debug\UIAulas.pdb
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\bin\Debug\EntidadesAula.dll
+C:\Users\alumno\Desktop\UTNAulas\UIAulas\bin\Debug\EntidadesAula.pdb
